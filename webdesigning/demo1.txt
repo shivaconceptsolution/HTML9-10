@@ -1,0 +1,73 @@
+what is web?
+
+Web is the collections of network which is used to contain unlimited data.
+
+Web always will be access by www (World wide web) .It is used to display web content under worldwide using Internet Protocol.
+
+
+
+What is Web page:-
+
+It is used to contain static and dynamic data which will be accessed by network.
+
+if web page contain static data then it is called static web page and if web page contain dynamic data then it is called dynamic web page.
+
+name of static web page :-   html web page
+
+name of dynamic web page :-  PHP web page,JSP web page,ASP Web page etc.
+.................................................................................
+
+What is Web Designing:-
+
+
+It is used to provide appearance and design static and dynamic web pages using HTML,CSS,JS,BootStrap,Jquery,Image content,Video Content etc.
+
+Now responsive web design is mandatory because now user's open web page from multiple device such as tablet,pc,mobile etc.
+
+Profile for Web Designing :-  Web Designer,UI Developer,FrontEnd Developer.
+
+..................................................................................
+
+
+Step to develope Website:-
+
+1)  Research or Requirement Gathering
+
+
+2)  Graphic Designing  (Create PSD (Photoshop Design),JPG)
+
+
+3)  Create HTML Web page using CSS,JS,Jquery and Image
+
+
+4)  Create Responsive Web Design
+
+
+5)  Testing 
+
+
+6)  Publish 
+
+
+http
+https
+dns
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   

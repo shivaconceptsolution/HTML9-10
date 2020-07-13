@@ -1,0 +1,161 @@
+What is HTML:-
+
+it means hypertext markup language ,it provides predefine set of elements which will be used to create website.
+
+HTML is mainly used to design user interface of Website.
+
+Without HTML we can not create website means it is mandatory for web development and web designing.
+
+HTML History:-
+...........................................................................
+
+HTML was developed at 1989 by Tim Berners-Lee to design web page.
+.................................................................................
+
+Hypertext:-  text within tag is called Hypertext.all html elements define as a Tag.
+
+Basic Structure:-
+
+
+<html>
+<head>
+
+</head>
+<body>
+
+</body>
+
+</html>
+
+
+<html> :-  it is the root tag of html,all html structure will be based on this tag.
+
+<head>:-  it is used to manage operation during request to web server using web crawler.
+
+<head> tag contain
+
+<title></title> :- It is used to define page title ,it should be your business name or work profile in short,title should be max 90 char.
+<meta />:- it  is used to provide keyword and description for search engine optimization
+<fabicon>:- it is used to provide site icon just beside title tag.
+<link rel="icon" type="img" href="imagepath"> 
+
+<body>:-  It is used to design user interface of web application,body is used to create different page area using HTML Container elements.
+
+<h1>:-  It is heading tag which is used to display bold and maximum font-size.
+...
+
+
+<h6>:-  It is heading tag which is used to display bold and minimum font-size.
+
+
+<p>:-  It is used to write content using paragraph pattern,by default paragraph manage content using proper alignment.
+if we use two paragraph tag then it will automatically manage content into newline.
+
+
+<p> abcd .........</p>
+<p> xyz ..........</p>
+
+
+<hr>:-  it means horizontal row ,it is used to display horizontal line on Html web page.
+
+<br>:-  it is used to break text into new line 
+
+<font>:-  it is used to change content color ,font-size,font-style
+
+
+<img>:-  it is used to display content in web page.
+
+<img src="imagename"  width="100" height="100"  />
+
+<b></b>:- it is used to display the content using bold text
+
+<i></i>:-  it is used to display the content in italic
+
+<strong></strong>:-  it is used to display the content bold but it is semantically understand the statements.
+
+<strike></strike>:-  it is used to display cross line text or cancel text
+
+<mark></mark>:-  It is used to highlight the text in yellow color by default
+
+
+<sub></sub> :- it is used to display subscript text under main text.for example if you want to write any formula of chemistry or mathmatics then you will use this tag.
+
+h2o  :-   h<sub>2</sub>o
+
+<sup></sup>:-  it is used to display superscript means above main text.
+            tm
+ShivaConcept            ShivaConcept<sup>TM</sup>
+
+
+<ul> and <li>:- ul means unordered list and li means list item.ul is the parent and li is the child.
+
+
+<ul>
+Programming Language
+<li>C</li>
+<li>CPP</li>
+<li>DS</li>
+<li>Designing</li>
+<li>JS</li>
+
+</ul>
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+<ol> and </li>:-  ol means ordered list and li means list item,ol is the parent and li is the child.
+
+<ol>
+Programming Language
+<li>C</li>
+<li>CPP</li>
+<li>DS</li>
+<li>Designing</li>
+<li>JS</li>
+</ol>
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+<center></center>:-
+
+it is used to display the content at center.
+
+
+<marquee>:- it is used to rotate text,image from left to right and right to left,top to bottom and bottom to top.
+
+................................................................................
+
+<iframe>:-  It is used to integrate external video content,youtube video content, web content etc.
+
+<iframe src="sitename" width="value" height="value" ></iframe>
+
+ 
+
+<table>:-  it is used to design table and contain record based on rows and columns.
+
+<tr>:-  it is used to show table row,for example if we want to create three rows then we add three <tr> tag
+
+<td>:-  it is called table data or description and it will be defined under table row.
+
+<th>:-  it is called table heading and it will be defined under table row.
+
+
+&nbsp; it is used to manage 1px space between word.
+
+
+<pre>  It is used to display content on actual style.
+
+&copy;  It is used to display copyright
+
+&lt    It is used to display less then symbol
+
+&gt    It is used to9 display greater then symbol
+
+
+
+
+
+
+
+
+
+  
+
