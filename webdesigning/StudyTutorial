@@ -1,0 +1,142 @@
+CSS:-  it means a cascading style sheet, it is used to provide a set of properties to design the HTML web page.
+
+CSS has three different approaches to write it.
+
+1) inline css:-  we can write css under HTML element similat to HTML property.
+
+
+<p style="backhround-color:red;color:yellow;">dfdif yiud yfiudyfudyfidfy</p>
+
+
+Example of Inline CSS:-
+
+<html>
+<head>
+
+
+</head>
+
+<body>
+<div style="height:400px;border:2px solid blue;">
+<p style="background-color: red;color:white;">Welcome in SCS</p>
+
+<h1 style="color:orange">Welcome in Inline css </h1>
+
+<input type="text" style="width: 400px;height: 30px;margin-left: 120px;margin-top: 50px;" />
+
+</div>
+</body>
+
+</html>
+
+
+Now I am creating a small front page using inline CSS, which contains the header, footer, and middle.
+
+Complete Code 
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body style="margin:0px;">
+
+<div style="height:100px;background-color:blue;">
+
+  <h1 style="color:white;margin: 0px;">Computer Sales and Services Indore</h1>
+
+</div>
+<div style="height:500px;background-image: url('reg.jpg');background-size: cover;">
+  
+<h1>Welcome in Shiva Concept Digital</h1>
+<a href="http://shivaconceptsolution.com/digital" style="color:red;font-weight:bolder;">Click here</a>
+</div>
+<div style="height:200px;background-color:blue;">
+
+<div style="float:left;height:180px;width:30%;margin-left: 10px;margin-top:10px;border:1px solid white;">
+
+	Part1
+
+</div>
+<div style="float:left;height:180px;width:30%;margin-left: 10px;margin-top:10px;border:1px solid white;">
+
+	Part2
+
+</div>
+<div style="float:left;height:180px;width:30%;margin-left: 10px;margin-top:10px;border:1px solid white;">
+
+	Part3
+
+</div>
+</div>
+
+
+</body>
+</html>
+
+
+2) Internal CSS:-
+
+  We will write CSS code under <head> section of HTML web page using <style> tag.
+
+ This CSS contains two different blocks.
+
+1)  Implicit block:-
+
+   All predefined tags of HTML will be defined as an implicit block.
+
+p
+{
+
+}
+
+h1
+{
+
+
+}
+
+img
+{
+
+
+}
+
+2) Explicit block:-  this type of block will be created manually using .block and #block.
+
+.block will be called by class selector and #block will be called by id selector
+
+
+
+.abc
+{
+     color:red;
+    font-size:24px;
+}
+
+<div class="abc"></div>
+
+#mno
+{
+     color:orange;
+    background-color:yellow;
+
+}
+
+<div id="mno"></div>
+
+
+#block will be used to define unique features on web page because we can not use ID multiple items.
+
+.block will be used to define repeated features on web page, it can be called multiple times on single web page.
+
+
+
+
+
+
+
+
+
+
+
+
