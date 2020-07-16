@@ -1,0 +1,45 @@
+
+*
+{
+	margin: 0px;
+}
+
+body
+{
+	background-color: lightblue;
+}
+
+#container
+{
+
+	margin-left:50px;
+	margin-right: 50px;
+}
+#header
+{
+	height: 100px;
+	background-color: darkblue;
+}
+
+#middle
+{
+
+	height: 500px;
+	background-color: lightgray;
+}
+
+.part
+{
+   width:31.5%;
+   height: 100%;
+   border:1px solid red;
+   margin-left: 20px;
+   float:left;
+
+}
+
+#footer
+{
+	height: 100px;
+	background-color: darkblue;
+}
